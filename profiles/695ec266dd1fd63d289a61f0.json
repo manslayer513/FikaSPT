@@ -1,0 +1,30 @@
+{
+  "info": {
+    "id": "695ec266dd1fd63d289a61f0",
+    "scavId": "695ec266dd1fd63d289a61f1",
+    "aid": 1439084,
+    "username": "TheDarkSlayer",
+    "wipe": true,
+    "edition": "SPT Zero to hero"
+  },
+  "characters": {
+    "pmc": {
+      "savage": null,
+      "Encyclopedia": null,
+      "Hideout": null,
+      "WishList": []
+    },
+    "scav": {
+      "savage": null,
+      "Encyclopedia": null,
+      "Hideout": null,
+      "WishList": []
+    }
+  },
+  "dialogues": {},
+  "inraid": {
+    "location": "none",
+    "character": "none"
+  },
+  "insurance": []
+}
